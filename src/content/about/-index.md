@@ -1,23 +1,21 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
-meta_title: "About"
+title: "Despre Pixico"
+meta_title: "Despre Pixico"
 image: "/images/author.png"
 draft: false
 
 what_i_do:
-  title: "What I Do"
+  title: "Ce Producem"
   items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+  - title: "Laboratoare"
+    description: "O gamă diversificată de produse pentru laboratoarele de analize, incluzând apă deionizată ultrapură, apă distilată și reactivi de înaltă calitate, esențiale pentru precizia și fiabilitatea rezultatelor."
   
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
+  - title: "Automobile"
+    description: "O gamă completă de produse pentru automobile, incluzând lichid de parbriz, apă distilată, lichid de frână, antigel, degresanți, degivranți și cosmetice auto, asigurând întreținere optimă și performanță de durată."
   
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+  - title: "Produse tehnice"
+    description: "Agenți termici profesionali de înaltă calitate, special concepuți pentru utilizarea în diverse produse tehnice, asigurând performanță și eficiență termică superioară."
 
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
-
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+Pixico este specializată în producerea apei distilate de înaltă puritate, ideală pentru utilizări în laboratoare și sisteme auto. Prin procese tehnologice avansate, garantăm apă distilată cu un nivel ridicat de claritate și fără impurități, potrivită pentru analize chimice, echipamente sensibile și întreținerea motoarelor. Pixico asigură calitate și fiabilitate în fiecare picătură.
