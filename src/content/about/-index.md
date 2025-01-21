@@ -1,7 +1,7 @@
 ---
 title: "Despre Pixico"
 meta_title: "Despre Pixico"
-image: "/images/author.png"
+image: "/images/pixico4.jpg"
 draft: false
 
 what_i_do:
