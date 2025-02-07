@@ -1,7 +1,7 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Acasa",
       "url": "/"
     },
     {
@@ -18,44 +18,28 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
-          "url": "/authors"
+          "name": "Laboratoare",
+          "url": "/laboratoare"
         },
         {
-          "name": "Categories",
-          "url": "/categories"
+          "name": "Automobile",
+          "url": "/automobile"
         },
         {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
+          "name": "Produse tehnice",
+          "url": "/produse-tehnice"
         }
       ]
     }
   ],
   "footer": [
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Despre noi",
+      "url": "/despre-noi"
     },
     {
       "name": "Contact",
       "url": "/contact"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
     }
   ]
 }

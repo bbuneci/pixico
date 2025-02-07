@@ -14,7 +14,7 @@ const { title, meta_title, image, what_i_do } = entry.data;
   <section class="section">
     <div class="container">
       <div class="row md:gx-4">
-        <div class="sm:col-5 md:col-4">
+        <div class="sm:col-5 md:col-4 hidden-mobile">
           {
             image && (
               <div class="img-cover mb-8">
@@ -29,7 +29,7 @@ const { title, meta_title, image, what_i_do } = entry.data;
             )
           }
         </div>
-        <div class="sm:col-7 md:col-8">
+        <div class="sm:col-7 md:col-8 text-center-mobile">
           <h1 set:html={markdownify(title)} class="h3 mb-8" />
 
           <div class="content">
@@ -60,3 +60,22 @@ const { title, meta_title, image, what_i_do } = entry.data;
     </div>
   </section>
 </Base>
+
+<style>
+  .hidden-mobile {
+    display: none;
+  }
+  @media (min-width: 768px) {
+    .hidden-mobile {
+      display: block;
+    }
+  }
+  .text-center-mobile {
+    text-align: center;
+  }
+  @media (min-width: 768px) {
+    .text-center-mobile {
+      text-align: left;
+    }
+  }
+</style>
