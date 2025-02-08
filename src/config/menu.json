@@ -18,16 +18,16 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Laboratoare",
-          "url": "/laboratoare"
+          "name": "Apa deionizată ultrapură",
+          "url": "/apa-deionizata-ultrapura-2"
         },
         {
-          "name": "Automobile",
-          "url": "/automobile"
+          "name": "Apa demineralizată",
+          "url": "/apa-demineralizata"
         },
         {
-          "name": "Produse tehnice",
-          "url": "/produse-tehnice"
+          "name": "Apa distilată",
+          "url": "/apa-distilata"
         }
       ]
     }

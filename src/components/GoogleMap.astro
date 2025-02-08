@@ -1,0 +1,16 @@
+---
+const { lat, lng, zoom, width = "100%", height = "320px" } = Astro.props;
+const src = `https://www.google.com/maps/embed/v1/place?key=AIzaSyDwUc_t9R01zVChx5aYCf1UCWuELJh-c2I&q=${lat},${lng}&zoom=${zoom}`;
+---
+<div class="w-full overflow-hidden rounded-lg shadow-lg">
+  <iframe
+    client:only="astro"
+    width="100%"
+    height={height}
+    style="border:0;"
+    loading="lazy"
+    allowFullScreen
+    referrerpolicy="no-referrer-when-downgrade"
+    src={src}>
+  </iframe>
+</div>
