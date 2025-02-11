@@ -23,13 +23,13 @@ Gemini prompt : scrie o descriere pentru apa deionizata ultrapura, tine cont de 
 
 <!-- Apa noastră deionizată ultrapură este supusă unui proces riguros de purificare în mai multe etape, pentru a asigura eliminarea completă a ionilor, particulelor organice, bacteriilor și a altor impurități. Acest lucru o face ideală pentru o gamă largă de aplicații industriale și de laborator, unde chiar și cele mai mici urme de contaminanți pot afecta negativ rezultatele. -->
 
-## Caracteristicile apei deionizate ultrapure:
+<!-- ## Caracteristicile apei deionizate ultrapure:
 
 - **Puritate excepțională:** Conductivitate electrică foarte scăzută și conținut minim de ioni.
 - **Calitate constantă:** Procese de purificare monitorizate atent pentru a asigura un nivel de puritate constant.
 - **Versatilitate:** Potrivită pentru diverse aplicații, de la industria electronică și farmaceutică, până la laboratoare de cercetare și producție.
 - **Disponibilitate:** Livrare rapidă și flexibilă, adaptată nevoilor dumneavoastră.
-- **Expertiză:** Consultanță tehnică specializată pentru a vă ajuta să alegeți soluția potrivită.
+- **Expertiză:** Consultanță tehnică specializată pentru a vă ajuta să alegeți soluția potrivită. -->
 
 ## Aplicații tipice:
 
