@@ -1,5 +1,5 @@
 ---
-title: "Apa deionizată ultrapură - 1"
+title: "Apa deionizată ultrapură (old)"
 meta_title: ""
 description: ""
 date: 2025-02-07T05:00:00Z
@@ -22,6 +22,10 @@ Lichid limpede, incolor.
 
 ## Calitate
 Produsul respectă normele de calitate cerute de Farmacopeea Europeană, standardele naționale și ASTM I USA.
+
+CAS Nr. 7732-18-5
+
+EINECS Nr. 231-791-2
 
 ## Ambalare
 

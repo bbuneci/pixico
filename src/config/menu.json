@@ -1,16 +1,8 @@
 {
   "main": [
     {
-      "name": "Acasa",
-      "url": "/"
-    },
-    {
       "name": "Despre noi",
-      "url": "/despre-noi"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
+      "url": "/"
     },
     {
       "name": "Produse",
@@ -30,6 +22,10 @@
           "url": "/apa-distilata"
         }
       ]
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
     }
   ],
   "footer": [

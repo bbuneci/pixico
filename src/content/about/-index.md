@@ -7,14 +7,17 @@ draft: false
 what_i_do:
   title: "Ce Producem"
   items:
-  - title: "Laboratoare"
-    description: "O gamă diversificată de produse pentru laboratoarele de analize, incluzând apă deionizată ultrapură, apă distilată și reactivi de înaltă calitate, esențiale pentru precizia și fiabilitatea rezultatelor."
+  - title: "Apa deionizată ultrapură"
+    link: "/"
+    description: "Aplicații industriale și de laborator de înaltă precizie"
   
-  - title: "Automobile"
-    description: "O gamă completă de produse pentru automobile, incluzând lichid de parbriz, apă distilată, lichid de frână, antigel, degresanți, degivranți și cosmetice auto, asigurând întreținere optimă și performanță de durată."
+  - title: "Apă demineralizată"
+    link: "/"
+    description: "Aplicații industriale și auto"
   
-  - title: "Produse tehnice"
-    description: "Agenți termici profesionali de înaltă calitate, special concepuți pentru utilizarea în diverse produse tehnice, asigurând performanță și eficiență termică superioară."
+  - title: "Apă distilată"
+    link: "/"
+    description: "Aplicații industriale și auto"
 
 ---
 

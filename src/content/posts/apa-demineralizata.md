@@ -21,8 +21,6 @@ Gemini prompt : scrie o descriere pentru apa demineralizata, tine cont de faptul
   </p>
 </div>
 
-Sunteți în căutarea unui partener de încredere pentru a vă furniza apă demineralizată de cea mai înaltă calitate? Atunci ați ajuns unde trebuie!
-
 Apa noastră demineralizată este obținută printr-un proces de purificare riguros, fiind eliminat conținutul de minerale și săruri. Acest lucru o face ideală pentru o gamă largă de aplicații industriale și auto, unde depunerile de minerale pot afecta negativ funcționarea echipamentelor.
 
 ## Caracteristicile și beneficiile apei noastre demineralizate:

@@ -17,8 +17,6 @@ draft: false
   </p>
 </div>
 
-Sunteți în căutarea unui partener de încredere pentru a vă furniza apă distilată de cea mai înaltă calitate? Atunci ați ajuns unde trebuie!
-
 Apa noastră distilată este obținută printr-un proces de distilare riguros, fiind eliminate toate impuritățile, mineralele și microorganismele. Acest lucru o face ideală pentru o gamă largă de aplicații, unde puritatea apei este esențială.
 
 ## Caracteristicile și beneficiile apei noastre distilate:
