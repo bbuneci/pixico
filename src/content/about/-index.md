@@ -8,16 +8,16 @@ what_i_do:
   title: "Ce Producem"
   items:
   - title: "Apa deionizată ultrapură"
-    link: "/"
     description: "Aplicații industriale și de laborator de înaltă precizie"
+    link: "/apa-deionizata-ultrapura"
   
   - title: "Apă demineralizată"
-    link: "/"
     description: "Aplicații industriale și auto"
+    link: "/apa-demineralizata"
   
   - title: "Apă distilată"
-    link: "/"
     description: "Aplicații industriale și auto"
+    link: "/apa-distilata"
 
 ---
 
