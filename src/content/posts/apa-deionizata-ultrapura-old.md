@@ -3,7 +3,7 @@ title: "Apa deionizată ultrapură (old)"
 meta_title: ""
 description: ""
 date: 2025-02-07T05:00:00Z
-# image: "/images/posts/01.jpg"
+images: []
 categories: ["Produse"]
 authors: ["Pixico"]
 tags: []

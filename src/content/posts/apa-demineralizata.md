@@ -4,9 +4,10 @@ meta_title: "Soluția ideală pentru aplicații industriale și auto"
 description: "Soluția ideală pentru aplicații industriale și auto"
 date: 2025-02-07T05:00:00Z
 # image: "/images/posts/01.jpg"
+images: ["/images/apa_demineralizata.webp"]
 categories: ["Produse"]
 authors: ["Pixico"]
-tags: []
+tags: ["produse"]
 draft: false
 ---
 
@@ -14,14 +15,7 @@ draft: false
 Gemini prompt : scrie o descriere pentru apa demineralizata, tine cont de faptul ca audienta o sa fie business-uri care probabil stiu cu ce se mananca dar scopul e sa se indexeze bine site-ul 
  -->
 
-<div class="flex flex-col sm:flex-row items-center mb-4">
-  <img src="/images/apa_demineralizata.webp" class="w-full sm:w-1/3 mb-4 sm:mb-0 sm:mr-4">
-  <p class="font-bold text-center sm:text-left">
-    Soluția ideală pentru aplicații industriale și auto
-  </p>
-</div>
-
-Apa noastră demineralizată este obținută printr-un proces de purificare riguros, fiind eliminat conținutul de minerale și săruri. Acest lucru o face ideală pentru o gamă largă de aplicații industriale și auto, unde depunerile de minerale pot afecta negativ funcționarea echipamentelor.
+<!-- Apa noastră demineralizată este obținută printr-un proces de purificare riguros, fiind eliminat conținutul de minerale și săruri. Acest lucru o face ideală pentru o gamă largă de aplicații industriale și auto, unde depunerile de minerale pot afecta negativ funcționarea echipamentelor.
 
 ## Caracteristicile și beneficiile apei noastre demineralizate:
 
@@ -29,7 +23,7 @@ Apa noastră demineralizată este obținută printr-un proces de purificare rigu
 - **Calitate constantă:** Procese de purificare monitorizate atent pentru a asigura un nivel de puritate constant.
 - **Versatilitate:** Potrivită pentru diverse aplicații, de la industria auto și electronică, până la sisteme de răcire și generatoare de abur.
 - **Disponibilitate:** Livrare rapidă și flexibilă, adaptată nevoilor dumneavoastră.
-- **Expertiză:** Consultanță tehnică specializată pentru a vă ajuta să alegeți soluția potrivită.
+- **Expertiză:** Consultanță tehnică specializată pentru a vă ajuta să alegeți soluția potrivită. -->
 
 ## Aplicații tipice:
 
@@ -39,7 +33,7 @@ Apa noastră demineralizată este obținută printr-un proces de purificare rigu
 - **Generatoare de abur:** Asigurarea funcționării eficiente și prelungirea duratei de viață a generatoarelor de abur.
 - **Alte industrii:** Industria chimică, industria textilă, etc.
 
-## De ce să alegeți apa noastră demineralizată?
+<!-- ## De ce să alegeți apa noastră demineralizată?
 
 - **Calitate superioară:** Respectăm cele mai înalte standarde de calitate pentru a vă oferi un produs de încredere.
 - **Preț competitiv:** Oferim prețuri competitive și soluții personalizate pentru a se potrivi bugetului dumneavoastră.
@@ -49,7 +43,7 @@ Apa noastră demineralizată este obținută printr-un proces de purificare rigu
 
 [contact]: /contact 
 
-Suntem dornici să colaborăm cu dumneavoastră și să vă oferim soluția perfectă pentru nevoile dumneavoastră de apă demineralizată.
+Suntem dornici să colaborăm cu dumneavoastră și să vă oferim soluția perfectă pentru nevoile dumneavoastră de apă demineralizată. -->
 
 ## Fișa tehnică
 
@@ -59,3 +53,7 @@ Suntem dornici să colaborăm cu dumneavoastră și să vă oferim soluția perf
 | Conductivitate, la 25 °                     | µs/cm  | 3           |
 | Substanțe oxidabile, conținut de oxigen (O) | max. mg/l | 0,4       |
 | Reziduu la evaporare                        | max. mg/kg | 1         |
+
+### Corespunde standardelor:
+- CAS Nr. 7732-18-5
+- EINECS Nr. 231-791-2

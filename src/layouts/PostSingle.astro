@@ -8,14 +8,14 @@ import { humanize, markdownify, slugify } from "@/lib/utils/textConverter";
 import { Image } from "astro:assets";
 import { render } from "astro:content";
 import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
+import PostHeader from "./components/PostHeader.astro";
 
 const allAuthors = await getSinglePage("authors");
 const posts = await getSinglePage("posts");
 const { post } = Astro.props;
 const similarPosts = similerItems(post, posts, post.slug);
 const { Content } = await render(post);
-const { title, description, authors, categories, image, date, tags } =
-  post.data;
+const { title, description, images } = post.data;
 ---
 
 <section class="section">
@@ -23,7 +23,7 @@ const { title, description, authors, categories, image, date, tags } =
     <article class="row justify-center">
       <div class="md:col-10 text-center">
         <h1 set:html={markdownify(title)} class="h2" />
-        <ul class="mt-4 flex flex-wrap items-center justify-center text-text">
+        <!-- <ul class="mt-4 flex flex-wrap items-center justify-center text-text">
           <li class="mx-3">
             {
               allAuthors
@@ -74,10 +74,10 @@ const { title, description, authors, categories, image, date, tags } =
               }
             </ul>
           </li>
-        </ul>
+        </ul> -->
       </div>
 
-      <div class="col-12 mt-8 mb-2">
+      <!-- <div class="col-12 mt-8 mb-2">
         {
           image && (
             <Image
@@ -89,13 +89,14 @@ const { title, description, authors, categories, image, date, tags } =
             />
           )
         }
-      </div>
+      </div> -->
 
       <div class="md:col-10">
         <div class="content mb-16 text-left">
+          <PostHeader description={description} images={images} />
           <Content />
         </div>
-        <div class="flex flex-wrap items-center justify-between">
+        <!-- <div class="flex flex-wrap items-center justify-between">
           <ul class="mr-4 mb-4 space-x-3">
             {
               tags.map((tag: string) => (
@@ -110,20 +111,14 @@ const { title, description, authors, categories, image, date, tags } =
               ))
             }
           </ul>
-          <Share
-            className="social-share mb-4"
-            title={title}
-            description={description}
-            slug={post.slug}
-          />
-        </div>
+        </div> -->
       </div>
     </article>
   </div>
 </section>
 
 <!-- similar posts -->
-{
+<!-- {
   similarPosts.length > 0 && (
     <section class="section pt-0">
       <div class="container">
@@ -132,4 +127,4 @@ const { title, description, authors, categories, image, date, tags } =
       </div>
     </section>
   )
-}
+} -->

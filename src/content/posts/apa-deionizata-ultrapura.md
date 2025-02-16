@@ -3,7 +3,7 @@ title: "Apa deionizată ultrapură"
 meta_title: "Pentru aplicații industriale și de laborator de înaltă precizie"
 description: "Pentru aplicații industriale și de laborator de înaltă precizie"
 date: 2025-02-07T05:00:00Z
-# image: "/images/posts/01.jpg"
+images: ["/images/deionizata-1.jpg", "/images/deionizata-2.jpg"]
 categories: ["Produse"]
 authors: ["Pixico"]
 tags: []
@@ -13,13 +13,6 @@ draft: false
 <!-- 
 Gemini prompt : scrie o descriere pentru apa deionizata ultrapura, tine cont de faptul ca audienta o sa fie business-uri care probabil stiu cu ce se mananca dar scopul e sa se indexeze bine site-ul 
  -->
-
-<div class="flex flex-col sm:flex-row items-center mb-4">
-  <img src="/images/apa_deionizata.jpeg" class="w-full sm:w-1/3 mb-4 sm:mb-0 sm:mr-4">
-  <p class="font-bold text-center sm:text-left">
-    Soluția ideală pentru aplicații industriale și de laborator de înaltă precizie.
-  </p>
-</div>
 
 <!-- Apa noastră deionizată ultrapură este supusă unui proces riguros de purificare în mai multe etape, pentru a asigura eliminarea completă a ionilor, particulelor organice, bacteriilor și a altor impurități. Acest lucru o face ideală pentru o gamă largă de aplicații industriale și de laborator, unde chiar și cele mai mici urme de contaminanți pot afecta negativ rezultatele. -->
 
