@@ -3,7 +3,7 @@ title: "Apă distilată"
 meta_title: "Soluția ideală pentru aplicații industriale și auto"
 description: "Soluția ideală pentru aplicații industriale și auto"
 date: 2025-02-07T05:00:00Z
-images: ["/images/apa_deionizata.jpeg"]
+images: ["/images/distilata-1l.png", "/images/distilata-3l.png", "/images/distilata-5l.png"]
 categories: ["Produse"]
 authors: ["Pixico"]
 tags: []

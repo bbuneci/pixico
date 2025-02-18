@@ -4,7 +4,7 @@ meta_title: "Soluția ideală pentru aplicații industriale și auto"
 description: "Soluția ideală pentru aplicații industriale și auto"
 date: 2025-02-07T05:00:00Z
 # image: "/images/posts/01.jpg"
-images: ["/images/apa_demineralizata.webp"]
+images: ["/images/demineralizata.png"]
 categories: ["Produse"]
 authors: ["Pixico"]
 tags: ["produse"]
