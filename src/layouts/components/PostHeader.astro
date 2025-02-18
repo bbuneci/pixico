@@ -102,12 +102,15 @@ const { description, images } = Astro.props;
         }, 10);
       });
 
-      this.modal.addEventListener("click", () => {
+      const hideModal = () => {
         this.modal!.classList.remove("fade-in");
         setTimeout(() => {
           this.modal!.classList.add("hidden");
         }, 300);
-      });
+      };
+
+      this.modal.addEventListener("click", hideModal);
+      this.modal.addEventListener("touchstart", hideModal);
     }
   }
 
