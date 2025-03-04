@@ -19,6 +19,10 @@ what_i_do:
     description: "Aplicații industriale și auto"
     link: "/apa-distilata"
 
+  - title: "Antigel"
+    description: "Aplicații instalații termice"
+    link: "/antigel-instalatii-termice"
+
 ---
 
 Pixico este specializată în producerea apei distilate de înaltă puritate, ideală pentru utilizări în laboratoare și sisteme auto. Prin procese tehnologice avansate, garantăm apă distilată cu un nivel ridicat de claritate și fără impurități, potrivită pentru analize chimice, echipamente sensibile și întreținerea motoarelor. Pixico asigură calitate și fiabilitate în fiecare picătură.
