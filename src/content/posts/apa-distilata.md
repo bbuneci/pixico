@@ -10,15 +10,6 @@ tags: []
 draft: false
 ---
 
-<!-- Apa noastră distilată este obținută printr-un proces de distilare riguros, fiind eliminate toate impuritățile, mineralele și microorganismele. Acest lucru o face ideală pentru o gamă largă de aplicații, unde puritatea apei este esențială.
-
-## Caracteristicile și beneficiile apei noastre distilate:
-
-- **Puritate maximă:** 0% conținut de minerale, săruri și alte impurități.
-- **Calitate constantă:** Procese de distilare monitorizate atent pentru a asigura un nivel de puritate constant.
-- **Versatilitate:** Potrivită pentru diverse aplicații, de la industria auto și electronică, până la aparate de uz casnic și laboratoare.
-- **Disponibilitate:** Livrare rapidă și flexibilă, adaptată nevoilor dumneavoastră.
-- **Expertiză:** Consultanță tehnică specializată pentru a vă ajuta să alegeți soluția potrivită. -->
 
 ## Aplicații tipice:
 
@@ -28,17 +19,6 @@ draft: false
 - **Laboratoare:** Diluarea soluțiilor, curățarea echipamentelor.
 - **Alte industrii:** Industria farmaceutică, industria cosmetică, etc.
 
-<!-- ## De ce să alegeți apa noastră distilată?
-
-- **Calitate superioară:** Respectăm cele mai înalte standarde de calitate pentru a vă oferi un produs de încredere.
-- **Preț competitiv:** Oferim prețuri competitive și soluții personalizate pentru a se potrivi bugetului dumneavoastră.
-- **Servicii excelente:** Echipa noastră dedicată este întotdeauna pregătită să vă ofere suport tehnic și consultanță.
-
-[Contactați-ne][contact] astăzi pentru o ofertă personalizată!
-
-[contact]: /contact 
-
-Suntem dornici să colaborăm cu dumneavoastră și să vă oferim soluția perfectă pentru nevoile dumneavoastră de apă distilată. -->
 
 ## Fișa tehnică
 

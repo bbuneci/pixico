@@ -11,19 +11,7 @@ tags: ["produse"]
 draft: false
 ---
 
-<!-- 
-Gemini prompt : scrie o descriere pentru apa demineralizata, tine cont de faptul ca audienta o sa fie business-uri care probabil stiu cu ce se mananca dar scopul e sa se indexeze bine site-ul 
- -->
 
-<!-- Apa noastră demineralizată este obținută printr-un proces de purificare riguros, fiind eliminat conținutul de minerale și săruri. Acest lucru o face ideală pentru o gamă largă de aplicații industriale și auto, unde depunerile de minerale pot afecta negativ funcționarea echipamentelor.
-
-## Caracteristicile și beneficiile apei noastre demineralizate:
-
-- **Puritate ridicată:** Conținut minim de minerale și săruri, prevenind depunerile și coroziunea.
-- **Calitate constantă:** Procese de purificare monitorizate atent pentru a asigura un nivel de puritate constant.
-- **Versatilitate:** Potrivită pentru diverse aplicații, de la industria auto și electronică, până la sisteme de răcire și generatoare de abur.
-- **Disponibilitate:** Livrare rapidă și flexibilă, adaptată nevoilor dumneavoastră.
-- **Expertiză:** Consultanță tehnică specializată pentru a vă ajuta să alegeți soluția potrivită. -->
 
 ## Aplicații tipice:
 
@@ -33,17 +21,6 @@ Gemini prompt : scrie o descriere pentru apa demineralizata, tine cont de faptul
 - **Generatoare de abur:** Asigurarea funcționării eficiente și prelungirea duratei de viață a generatoarelor de abur.
 - **Alte industrii:** Industria chimică, industria textilă, etc.
 
-<!-- ## De ce să alegeți apa noastră demineralizată?
-
-- **Calitate superioară:** Respectăm cele mai înalte standarde de calitate pentru a vă oferi un produs de încredere.
-- **Preț competitiv:** Oferim prețuri competitive și soluții personalizate pentru a se potrivi bugetului dumneavoastră.
-- **Servicii excelente:** Echipa noastră dedicată este întotdeauna pregătită să vă ofere suport tehnic și consultanță.
-
-[Contactați-ne][contact] astăzi pentru o ofertă personalizată!
-
-[contact]: /contact 
-
-Suntem dornici să colaborăm cu dumneavoastră și să vă oferim soluția perfectă pentru nevoile dumneavoastră de apă demineralizată. -->
 
 ## Fișa tehnică
 
