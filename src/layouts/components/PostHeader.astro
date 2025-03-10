@@ -1,23 +1,38 @@
 ---
 const { description, images } = Astro.props;
+import { Image } from "astro:assets";
+import type { ImageMetadata } from "astro";
+
+const image_assets = import.meta.glob<{ default: ImageMetadata }>(
+  "/src/assets/*.{jpeg,jpg,png,gif}",
+);
+
+const image_paths = images.map((img: string) => {
+  return image_assets[img]();
+});
+
 ---
 
-<my-header class="flex flex-col sm:flex-row items-center mb-8 mt-4 justify-center">
+<my-header
+  class="flex flex-col sm:flex-row items-center mb-8 mt-4 justify-center"
+>
   <div class="flex flex-col items-center">
-    <img
-      src={images[0]}
+    <Image
       class="w-[256px] sm:w-[400px] mb-4 sm:mb-0 sm:mr-4 cursor-pointer"
+      src={image_paths[0]}
+      alt={description}
       id="post-image"
     />
+
     {
       images.length > 1 && (
         <div class="flex justify-center">
-          {images.map((image: string, i: number) => {
+          {image_paths.map((image: string, i: number) => {
             let imgClass = "w-[65px] sm:w-[80px] cursor-pointer mr-4";
             if (i === 0) {
               imgClass += " selected-image";
             }
-            return <img id={"post-image-" + i} src={image} class={imgClass} />;
+            return <Image id={"post-image-" + i} src={image} class={imgClass} alt=" "/>;
           })}
         </div>
       )
@@ -121,7 +136,7 @@ const { description, images } = Astro.props;
       document.addEventListener("scroll", hideModal);
       document.addEventListener("keydown", (e) => {
         console.log(e.key);
-        if (e.key === 'Escape') {
+        if (e.key === "Escape") {
           hideModal();
         }
       });

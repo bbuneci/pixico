@@ -3,7 +3,7 @@ title: "Apa deionizată ultrapură"
 meta_title: "Pentru aplicații industriale și de laborator de înaltă precizie"
 description: "Pentru aplicații industriale și de laborator de înaltă precizie"
 date: 2025-02-07T05:00:00Z
-images: ["/images/deionizata-1l.png", "/images/deionizata-2.jpg"]
+images: ["/src/assets/deionizata-1l.png", "/src/assets/deionizata-2.jpg"]
 categories: ["Produse"]
 authors: ["Pixico"]
 tags: []

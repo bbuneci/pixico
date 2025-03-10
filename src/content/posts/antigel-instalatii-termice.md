@@ -3,7 +3,7 @@ title: "Antigel pentru instalații termice"
 meta_title: "Protecție eficientă pentru sistemele de încălzire"
 description: "Protecție eficientă pentru sistemele de încălzire"
 date: 2025-02-07T05:00:00Z
-images: ["/images/antigel.png"]
+images: ["/src/assets/antigel.png"]
 categories: ["Produse"]
 authors: ["Pixico"]
 tags: []
