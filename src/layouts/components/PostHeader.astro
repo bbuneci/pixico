@@ -61,6 +61,7 @@ const { description, images } = Astro.props;
     modal: HTMLElement | null = null;
     modalImage: HTMLImageElement | null = null;
     images: NodeListOf<HTMLImageElement> | null = null;
+    isModalOpen: boolean = false;
 
     selectImage(index: number) {
       let selectedImageSrc = "";
@@ -96,6 +97,7 @@ const { description, images } = Astro.props;
       }
 
       this.postImage.addEventListener("click", () => {
+        this.isModalOpen = true;
         this.modal!.classList.remove("hidden");
         setTimeout(() => {
           this.modal!.classList.add("fade-in");
@@ -103,6 +105,11 @@ const { description, images } = Astro.props;
       });
 
       const hideModal = () => {
+        if (!this.isModalOpen) {
+          return;
+        }
+
+        this.isModalOpen = false;
         this.modal!.classList.remove("fade-in");
         setTimeout(() => {
           this.modal!.classList.add("hidden");
@@ -111,6 +118,13 @@ const { description, images } = Astro.props;
 
       this.modal.addEventListener("click", hideModal);
       this.modal.addEventListener("touchstart", hideModal);
+      document.addEventListener("scroll", hideModal);
+      document.addEventListener("keydown", (e) => {
+        console.log(e.key);
+        if (e.key === 'Escape') {
+          hideModal();
+        }
+      });
     }
   }
 
